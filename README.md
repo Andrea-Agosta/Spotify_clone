@@ -13,7 +13,7 @@ In this Project for the frontend side I used Bootstrap 5.0, and for backend side
 
 ### Run the application in local environment
 
-After the `git clone`of the project cd in to project root folder.
+After the `git clone` of the project cd in to project root folder.
 
 Run in a terminal
 ```bash

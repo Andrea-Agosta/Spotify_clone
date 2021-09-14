@@ -1,0 +1,34 @@
+/* LEGAAL SECTION */
+.pad-legal {
+    padding: 2% 10.5%;
+}
+
+.nav-legal {
+    color: black !important;
+}
+
+.link-black {
+    color:black;
+}
+
+.link-black:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+.link-green {
+    color: #1DB954;
+}
+
+.link-green:hover {
+    color: #2DD865;
+}
+table{
+    width: 100%;
+    border: #EFEFEF 1px solid;
+}
+
+thead td {
+    background-color: #1BB954;
+    width: content-box;
+}
