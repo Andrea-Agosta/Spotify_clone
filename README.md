@@ -24,4 +24,4 @@ After install all Node's packages run on your terminal
 ```bash
 npm run
 ```
-The website is avaleible on [localhost 3000](http://localhost:3000)
+The website is available on [localhost 3000](http://localhost:3000)
